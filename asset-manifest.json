@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OmuPunuUtils/static/css/main.1209f715.css",
+    "main.js": "/OmuPunuUtils/static/js/main.37c4723d.js",
+    "static/js/488.9c92ff38.chunk.js": "/OmuPunuUtils/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/OmuPunuUtils/index.html",
+    "main.1209f715.css.map": "/OmuPunuUtils/static/css/main.1209f715.css.map",
+    "main.37c4723d.js.map": "/OmuPunuUtils/static/js/main.37c4723d.js.map",
+    "488.9c92ff38.chunk.js.map": "/OmuPunuUtils/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1209f715.css",
+    "static/js/main.37c4723d.js"
+  ]
+}
